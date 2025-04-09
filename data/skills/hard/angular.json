@@ -1,0 +1,34 @@
+{
+  "name": "Angular",
+  "description": "Je sais utiliser Angular pour développer des applications web dynamiques et interactives.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png",
+  "content": [
+    {
+      "title": "Ma définition",
+      "content": "Angular est un framework frontend, développé par Google et la communauté, conçu pour faciliter la création d'applications web, notamment des applications monopages. Il utilise TypeScript et utilise une architecture basée sur le modèle-vue-contrôleur (MVC), permettant de séparer les données et la logique métier pour une meilleure organisation du code. Angular propose des fonctionnalités telles que le data binding bidirectionnel, l'injection de dépendances et une gestion efficace des composants, ce qui simplifie le développement et la maintenance des applications web complexes.\n"
+    },
+    {
+      "title": "Mes éléments de preuve",
+      "content": "J’ai eu l'occasion d'utiliser angular à plusieurs reprises. En équipe nous avons réalisé une application web de gestion de tâches pour un laboratoire d’analyse biologique. Ce projet (MicroBio -> lien réalisation) m’à permis de découvrir plus en détail ce framework et utiliser des fonctionnalités avancées comme l’utilisation de websocket (communication instantané basé sur des événements) et d’une api java afin de garder l’application tout le temps à jour sans avoir besoin de rafraîchir la page. Grâce à cette application le laboratoir à pu améliorer sa gestion des tâches et donc gagner en productivité\n\nAu cours du projet Androwing (lien vers la réalisation), d'une application android pour enregistrer ses séances de rameurs et comparer les performances entre membres du club “aviron agenais”. Angular m’à été utile pour réaliser la partie administrateur de l’application. Pouvoir gérer les membres, activités et récompenses. Tout ça grâce à une API commune avec entre l’application mobile et l’application web angular. \n"
+    },
+    {
+      "title": "Mon autocritique",
+      "content": "Avec ces deux projets je maîtrise bien la majorité des possibilités d’angular grâce à la complexité de fonctionnalités à implémenter. Je suis alaise avec ce framework et peut facilement créer une application web. Grâce à mon expérience, je sais structurer un projet Angular de manière efficace. Je maîtrise la gestion des composants, services et modules pour un code optimisé. \n"
+    },
+    {
+      "title": "Mon évolution dans cette compétence",
+      "content": "Mon utilisation d’Angular remonte à plusieurs années, mais il a beaucoup évolué.\nLes nouvelles versions apportent des fonctionnalités que je souhaite approfondir.\nJe souhaite mettre à jour mes compétences pour maîtriser les dernières avancées.\nL’évolution du framework a introduit des concepts modernes et optimisés.\n\nJe veux apprendre les meilleures pratiques pour avoir un code plus performant.\nL’optimisation et l’architecture des applications Angular m’intéressent beaucoup.\nComprendre les nouvelles directives et outils me semble essentiel aujourd’hui.\nMon objectif est d’être à jour pour développer des applications plus efficaces.\n"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "MicroBio",
+      "path":  "./achievements/microbio"
+    },
+    {
+      "name": "Androwing",
+      "path":  "./achievements/androwing"
+    }
+  ]
+
+}

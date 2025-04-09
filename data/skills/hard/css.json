@@ -1,0 +1,30 @@
+{
+  "name": "CSS",
+  "description": "Je sais utiliser CSS pour mettre en forme des pages web et créer des interfaces utilisateur attrayantes.",
+  "image": "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+  "content": [
+    {
+      "title": "Ma définition",
+      "content": "Le CSS est un langage qui fonctionne avec le html permettant de mettre en forme le code rédigé en html en appliquant des propriétés pour changer la disposition, la couleur, la taille et pleins d’autres fonctionnalités. Ce langage est le plus utilisé par les développeurs front que ce soit de manière directe ou indirecte en utilisant des framework. \n\nEffectivement, il existe des outils qui permettent de le plus rédiger de lignes de css, mais en appliquant des “class” sur des éléments html du style vient s’appliquer sur ces éléments. Les frameworks les plus connus sont bootstrap et tailwind, offrant de nombreuses possibilités aux développeurs front sans passer énormément de temps sur le style.\n\nCe langage est un indispensable pour rendre un site web beau et fonctionnel pour les utilisateurs finaux.\n"
+    },
+    {
+      "title": "Mes éléments de preuve",
+      "content": "J’ai eu l'occasion d'utiliser le CSS à plusieurs reprises lors de différents projets. En équipe, nous avons réalisé une application web de gestion de tâches pour un laboratoire d’analyses biologique. Ce projet (MicroBio -> lien réalisation) m’a permis de découvrir plus en détail les possibilités qu'offre le css pour par exemple mettre en évidence des tâches qui arrivent à la limite du temps pour réaliser celle-ci. Le CSS a permis à l’interface web d’être utilisable sur un écran tactile en agrandissant les icônes et en positionnant les éléments de façon à ce que l’ergonomie soit la meilleure possible. Grâce à cette application, le laboratoire a pu améliorer sa gestion des tâches et donc gagner en productivité due à la bonne visibilité des tâches les plus prioritaire et à la bonne ergonomie rendant l’application facile à utiliser sur un grand écran tactile."
+    },
+    {
+      "title": "Mon autocritique",
+      "content": "Je suis familier avec le css et maîtrise les fonctionnalités essentielles de ce langage. Ce qui me permet de pouvoir créer facilement une interface web. Cependant, je manque de connaissances que les animations, transitions et effets 3D, effectivement, j’ai rarement eu l’occasion de pouvoir utiliser ces principes avancés du css lors de mes projets d’école ou bien lors de projets personnels."
+    },
+    {
+      "title": "Mon évolution dans cette compétence",
+      "content": "Comme évoqué précédemment, je manque de connaissances dans les animations, transitions et effets 3D que permet le CSS, pour gagner en expérience dans ce domaine, il existe de nombreux sites qui proposent des formations gratuites ou bien plus simplement des tutos youtubes. Je pense qu’il est important de varier ces sources d’apprentissage pour se faire son propre avis et tirer le meilleur de chaque formation."
+    }
+  ],
+  "achievements": [
+    {
+      "name": "MicroBio",
+      "path":  "./achievements/microbio"
+    }
+  ]
+
+}

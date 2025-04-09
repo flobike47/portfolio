@@ -1,0 +1,30 @@
+{
+  "name": "Rituels agiles",
+  "description": "Je sais mettre en place des rituels agiles pour améliorer la collaboration au sein d'une équipe de développement.",
+  "image": "https://onlyweb-formation.com/uploads/mod_logo/methode_agile.webp",
+  "content": [
+    {
+      "title": "Ma définition",
+      "content": "Les rituels agiles sont des réunions récurrentes utilisées dans les projets dit “agiles”. \nIls permettent de mener à bien un projet grâce à leur efficacité, à chaque fin de sprint (période de développement, généralement situé autour des 2 semaines) un réunion est organisé pour faire un retour sur le déroulé du sprint en évoquant les points bloquant et les solutions envisageable pour ne pas que ce genre de situation se reproduisent. Puis à la suite de cette réunion vient le moment moment de planifier le prochain sprint en définissant les objectifs ainsi que les tâches à réaliser. \nAu quotidien une réunion à lieu pour partager avec l’équipe son avancée et évoquer le besoin d’aide si il se fait ressentir pour ne pas rester bloqué trop longtemps sur la même tâche.\n\nLes rituels agiles sont très répandus dans les projets informatiques pour mener à bien les différents projets."
+    },
+    {
+      "title": "Mes éléments de preuve",
+      "content": "J’ai eu l'occasion de m’exercer avec les rituels agiles au cours de deux projets d’école.\nLe premier projet est MicroBio, une application web de gestion de tâches pour un laboratoire d’analyse biologique. Ce projet m’à permis de découvrir les rituels agiles et bien comprendre leurs utilités. Après quelques mois, j’ai pu me rendre compte des bien fait des rituels agiles, la facilité à évoquer les points bloquants et la définition simple des objectifs à court terme pour délivrer des parties de l’application. À mon sens, c'est grâce à ces rituels agiles que nous avons pu livrer l’application dans les délais impartis avec toutes les fonctionnalités demandées au début du projet. "
+    },
+    {
+      "title": "Mon autocritique",
+      "content": "Je maîtrise bien les rituels agiles, avec le temps et à force de m'exercer j’ai pu comprendre les bienfaits de ces réunions. Je dirais que je me prête bien au jeux et mais je n’ai jamais animer ce genre de rituels et j’aimerai bien pouvoir expérimenter ce rôle."
+    },
+    {
+      "title": "Mon évolution dans cette compétence",
+      "content": "Comme évoqué dans la partie d’autocritique, je voudrais m’initier à l'animation de rituels agiles, pour cela je pense qu’il est essentiel de se former pour arriver à tirer le maximum du potentiel de chacune des réunions. Des formations existent sur internet sur des sites comme openclassroom par exemple. Cela m’aider à comprendre encore mieux l’enjeu des rituels pour être de plus en plus efficace lors de ces points."
+    }
+  ],
+  "achievements": [
+    {
+      "name": "MicroBio",
+      "path":  "./achievements/microbio"
+    }
+  ]
+
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Travail en équipe",
+  "description": "Je sais travailler en équipe ",
+  "image": "https://thumbs.dreamstime.com/b/logo-de-personnes-de-réunion-de-travail-d-équipe-35500986.jpg?w=360 360w, https://thumbs.dreamstime.com/b/logo-de-personnes-de-réunion-de-travail-d-équipe-35500986.jpg?w=400 400w, https://thumbs.dreamstime.com/b/logo-de-personnes-de-réunion-de-travail-d-équipe-35500986.jpg?w=450 450w, https://thumbs.dreamstime.com/b/logo-de-personnes-de-réunion-de-travail-d-équipe-35500986.jpg?w=576 576w",
+  "content": [
+    {
+      "title": "Ma définition",
+      "content": "Le travail en équipe est une compétence très importante et permet de tirer le meilleur de chaque membre de l’équipe. En effet, cela permet d’élargir notre champ de vision en étant à l’écoute des différents points de vue et d'apprendre d’autres façon d’organiser sa réflexion.\nLe travail en équipe permet aussi de partager ces connaissances et pour apprendre des uns et des autres et se servir des points forts de chaque personne pour atteindre plus facilement l’objectif fixé. Mais c’est aussi lors du travail en équipe qu'il faut sortir de sa zone de confort pour expérimenter et réaliser des tâches qui habituellement ne seraient pas le premier choix.\n\nLe travail en équipe est vraiment une opportunité pour son évolution personnelle comme professionnelle. \n"
+    },
+    {
+      "title": "Mes éléments de preuve",
+      "content": "Dans notre quotidien, le travail en équipe est presque inévitable. Tous les projets auxquels j’ai eu la chance de participer étaient en équipe.\n\nLors du projet DogTrip, nous étions une équipe de cinq. Nous avons dû créer une association et notre objectif était de distribuer des denrées alimentaires et matériels pouvant aider pour les animaux des refuges autour du campus de notre école. Nous avons dû travailler ensemble pour trouver des moyens de financer notre projet. Grâce à nos efforts, nous avons eu plusieurs idées, comme la vente de biscuits réalisés par nos soins en générant une marge suffisante pour permettre l’achat de produits. Nous avons aussi créé des affiches et préparé des mails de communication pour les personnes du campus afin de faire appel à leur générosité permettant la récolte de croquettes, coussins et autres produits pouvant aider les refuges. \nAvec ces efforts collectifs, et les idées de chacun, nous avons pu aider 3 refuges !\n"
+    },
+    {
+      "title": "Mon autocritique",
+      "content": "Grâce aux nombreux projets auxquels j’ai pu participer en équipe, j’ai l’habitude de travailler en équipe et j'aime vraiment ça, le fait de pouvoir apprendre de chacun et le partage de connaissance permet de progresser vraiment plus vite. \n"
+    },
+    {
+      "title": "Mon évolution dans cette compétence",
+      "content": "Pour perfectionner mon efficience lors de travaux en équipe, c’est de pratiquer de plus en plus et d'être le plus attentif possible à ce que chaque personne apporte comme information/connaissance afin d’encore plus enrichir mes connaissances."
+    }
+  ],
+  "achievements": [
+    {
+      "name": "DogTrip",
+      "path":  "./achievements/dogtrip"
+    }
+  ]
+
+}

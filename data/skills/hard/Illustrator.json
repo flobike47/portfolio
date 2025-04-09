@@ -1,0 +1,30 @@
+{
+  "name": "Illustrator",
+  "description": "Je sais utiliser Illustrator pour créer des visuels graphiques et des logos.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1024px-Adobe_Illustrator_CC_icon.svg.png",
+  "content": [
+    {
+      "title": "Ma définition",
+      "content": "Illustrator est un outil graphique vectoriel puissant et polyvalent de la suite adobe. Il permet la création de visuels comme des logos, des illustrations, des maquettes, des typographies et d'autres éléments visuels. \n\nCe logiciel, normalement destiné aux professionnels du monde du graphisme, est facile à prendre en main grâce à la grande communauté présente sur Internet permettant de découvrir le logiciel avec des tutoriels abordant des fonctionnalités précises.\n"
+    },
+    {
+      "title": "Mes éléments de preuve",
+      "content": "Au cours de mes études, j’ai pu réaliser plusieurs projets, nous devions créer une identité visuelle pour nos différents supports de présentation et autres.\n\nIllustrator m'a notamment été utile lors du projet “DogTrip”, un projet pour apporter de l’aide aux refuges dans le lot et Garonne. J’ai pu réaliser le logo de notre équipe de projet pour nos différentes présentations, mais aussi pour créer notre page Instagram afin de nous donner un peu plus de visibilité. À travers ce logo, nous voulions faire référence à notre nom de projet, il se composait d'un globe terrestre stylisé, avec le nom de notre projet au sommet de celui-ci avec des icônes de chiens pour rappeler la cause et deux vans visant à montrer la livraison de fournitures dans les refuges. \n\nGrâce à ce travail, nous avons renforcé la crédibilité de notre projet auprès de nos donateurs. L’identité visuelle créée a contribué à augmenter l’engagement sur les réseaux sociaux et a facilité la communication autour de l’initiative. Cette expérience m’a appris à soigner chaque détail graphique pour maximiser l’impact visuel d’un message.\n"
+    },
+    {
+      "title": "Mon autocritique",
+      "content": "Je pense maîtriser les bases de ce logiciel, mais les réalisations produites ne me demandent pas de gros efforts techniques, c’est pour cela que ma maîtrise reste plutôt simple. Je n’ai pas encore eu l’occasion de réaliser des projets très complexes qui m’auraient permis de me confronter à des difficultés techniques. Je pense que pour progresser, il me faudrait réaliser des projets plus ambitieux qui me pousseraient à explorer des fonctionnalités plus avancées d’Illustrator.\n"
+    },
+    {
+      "title": "Mon évolution dans cette compétence",
+      "content": "À l’avenir, j’aimerais pouvoir me perfectionner sur ce logiciel afin de créer des visuels plus techniques qui m’aideront à véhiculer une image professionnelle. \n\nPour y parvenir, je prévois de suivre des tutoriels spécialisés sur YouTube. À moyen terme, j’aimerais également explorer l’animation vectorielle avec After Effects, afin de dynamiser mes créations et élargir mes compétences en design graphique.\n"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Dog Trip",
+      "path":  "./achievements/dogtrip"
+    }
+  ]
+
+}
