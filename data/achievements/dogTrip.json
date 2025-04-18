@@ -1,0 +1,58 @@
+{
+  "name": "DogTrip",
+  "description": "Créer une association pour soutenir la cause annimale",
+  "image": "https://static.vecteezy.com/ti/vecteur-libre/p1/4510645-logo-abri-animal-sur-maison-pour-animaux-vecteur-vectoriel.jpg",
+  "content": [
+    {
+      "title": "Contexte",
+      "content": "Ce projet a été réalisé lors de ma troisième année en ingénierie logicielle à l’ESIEA. C’est un projet de formation humaine, il n’est pas en lien direct avec ma formation technique et vise à développer les compétences humaines. La particularité des projets à l’ESIEA est que nous avons un vrai commanditaire en face de nous et nous servons à une cause réelle, ce n’est pas juste un projet d’école, il y a de vrais enjeux pour les personnes qui nous font confiance.</br>"
+    },
+    {
+      "title": "Présentation du projet",
+      "content": "Le projet DogTrip est un projet initié par nous membres de l’école, nous étions 5 pour réaliser ce projet. Ce projet est différent des projets de formation humaine que j’ai déjà pu avoir auparavant. Effectivement l’objectif était de nous initier à la gestion de budget en créant une association. Nous avons dû trouver l’objectif de notre projet.</br></br>Pour ce projet de formation humaine nous avons choisi de servir la cause animale, l’objectif est simple, récolter des fonds, de la nourriture et autre pouvant être utile pour les refuges en organisant des événements ou des moments pour recueillir des fournitures.</br>Nous avons décidé d’aider les réfugiés se situant près des différents campus de notre école, à Montauban, Dax puis Brax à proximité de notre campus.</br>"
+    },
+    {
+      "title": "Enjeux et risques",
+      "content": "L'enjeu principal pour DogTrip était simple : réussir à aider les animaux des refuges de Montauban, Dax et Brax grâce aux différentes actions qu'on allait mener. Il y avait aussi un enjeu pour nous, l'équipe, car ce projet devait nous apprendre à gérer une association et son budget, c'était le but de cette formation humaine.</br></br>Le plus gros risque, c'était que nos collectes ou événements ne fonctionnent pas bien et qu'on ne récolte pas assez de dons pour que ça serve vraiment aux refuges. On pouvait aussi avoir des soucis dans l'organisation de nos actions. Et bien sûr, si on gérait mal le budget ou l'asso, on ratait notre objectif d'apprentissage et ça pouvait nuire à l'image du projet.</br>"
+    },
+    {
+      "title": "Réalisations",
+      "content": "Réalisations</br>Au début du projet, dans un premier temps je me suis occupé de créer l’identité visuel de notre équipe en concevant notre logo qui servira pour nos différentes présentations d'avancée de projet. Pour réaliser ce logo j’ai utilisé le logiciel illustrator de la suite Adobe qui permet de créer des visuels, ce logiciel m’à service aussi à créer les affiches de présentation de projet en mentionnant les membres de l’équipe, les technologies utilisées pour réaliser ce projet ainsi que le nom de notre équipe et le slogan.</br></br>Puis dans un second temps j’ai pu participer à la planification du projet en aidant à l’estimation du temps que chaque tâche préalablement identifiée pouvaient prendre pour être réalisé. Puis grâce à cette estimation j’ai pu fixer les dates auxquelles nous allions rendre visite au refuge afin de pouvoir les prévenir en avance de notre venue. </br></br>J’ai aussi pu planifier les moments de collecte et les évènements que nous allions faire récolter des fonds. Ces évènements étaients au nombre de deux, le premier était la vente de sablés au sein de notre campus, ces sablés étaient fait maison pour limiter les coûts et maximiser les gains, cet évènement à plutôt bien fonctionné nous avons pu récolter assez de fonds afin de pouvoir acheter de la nourriture pour chien et pour chat. </br>Le second événement était sur le même principe, la vente de sablés mais cette fois-ci au marché d’Agen.</br></br>Pendant ce projet j’avais le rôle de trésorier au sein de l’association. Ma mission était de noter chaque rentrée et chaque sortie d’argent. Pour ce faire, nos encadrants nous ont mis à disposition un fichier excel dans lequel je renseigné tous les flux en donnant un justificatif pour chacun. Afin que mon fichier soit le plus à jour possible j’ai eu besoin de bien communiquer avec les membres de l’équipe pour être au courant de chaque dépense et rentré d’argent. </br>À la fin du projet j’ai dû présenter notre budget à nos encadrants afin de la valider. Le critère pour valider le budget était que les dépenses soient égales aux bénéfices afin de pouvoir clôturer l’association. À la suite de cette présentation nous avons validé notre budget.</br></br>Tout au long du projet chaque décision et réalisations ont été réalisées en équipe pour que chacun se sente impliqué au bon déroulement du projet.</br></br>J’ai eu l'occasion d’utiliser à nouveau illustrator afin de créer des visuels pour faire des posts sur les réseaux sociaux pour communiquer notre projet au plus grand nombre et toucher des personnes externes à l’école et récolter des dons grâce à notre cagnotte en ligne.</br>"
+    },
+    {
+      "title": "Résultats",
+      "content": "On a atteint notre but principal : grâce à nos actions et collectes, on a pu livrer de la nourriture et des fournitures (jouets, couvertures...) aux refuges de Dax, Montauban et Brax.</br></br>On a aussi rempli l'objectif de la formation humaine en créant et gérant l'association. J'ai pu tenir le rôle de trésorier et présenter un budget équilibré à la fin. On a donc validé notre apprentissage en gestion de budget et j’ai renforcé mes compétences en communication et planification.</br>"
+    },
+    {
+      "title": "Perspectives d’avenir",
+      "content": "Juste après, l'association DogTrip a été clôturée puisque le budget était équilibré. À plus long terme, l'aide aux refuges était ponctuelle, mais pour nous l'expérience de gestion de projet et de budget reste acquise. Aujourd'hui, ces compétences nous sont toujours utiles."
+    },
+    {
+      "title": "Mon regard critique",
+      "content": "Mon apport principal a été la gestion de la trésorerie pour atteindre l'objectif de budget équilibré. J'ai aussi fait les visuels (logo, posts, affiches) et participé à la planification et aux collectes. Ce projet m'a surtout appris à gérer un budget réel et l'importance de bien communiquer dans une équipe, surtout pour suivre l'argent. C'était concret et différent des projets techniques.</br>"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Illustrator",
+      "path":  "./skills/microbio"
+    },
+    {
+      "name": "Communucation",
+      "path":  "./skills/Communucation"
+    },
+    {
+      "name": "Planification",
+      "path":  "./skills/Planification"
+    },
+    {
+      "name": "Travail en équipe",
+      "path":  "./skills/Travail en équipe"
+    },
+    {
+      "name": "Analyse du besoin",
+      "path":  "./skills/Analyse du besoin"
+    }
+  ]
+
+}

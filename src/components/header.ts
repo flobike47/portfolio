@@ -1,8 +1,10 @@
 import { Skill_service } from "../services/skill_service.ts";
 import { Skill } from "../models/Skill.ts";
 import { Skill_type } from "../models/enum/Skill_type.ts";
+import {Achievement_service} from "../services/achievement_service.ts";
 
 const skill_service: Skill_service = Skill_service.getInstance();
+const achievement_service : Achievement_service = Achievement_service.getInstance();
 
 export function header(): string {
     const skills: Skill[] = skill_service.skills?.skills || [];
@@ -32,8 +34,29 @@ export function header(): string {
                 </div>
                 <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
                     <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
-                        <li><a href="/">Accueil</a></li>
-                        <li><a href="/achievements">Réalisations</a></li>
+                        
+                         <li class="group relative dropdown">
+                            <a href="/">Accueil</a>
+                            <div class="group-hover:block bg-white shadow dropdown-menu absolute hidden h-auto left-1/2 transform -translate-x-1/2 rounded-md">
+                                <div class="flex">
+                                    <ul class="w-48 pl-6 py-8">
+                                        <li class="py-1"><a href="/présentation/" class="block text-base cursor-pointer">Présenation générale</a></li>
+                                        <li class="py-1"><a href="/parcours/" class="block text-base cursor-pointer">Mon parcours</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="group relative dropdown">
+                            <a href="/achievements">Réalisations</a>
+                            <div class="group-hover:block bg-white shadow dropdown-menu absolute hidden h-auto left-1/2 transform -translate-x-1/2 rounded-md">
+                                <div class="flex">
+                                    <ul class="w-48 pl-6 py-8">
+                                        <li class="font-bold">Réalisations</li>
+                                        ${achievement_service.achievements?.achievements.map(achievement => `<li class="py-1"><a href="/achievements/${achievement.name}" class="block text-base cursor-pointer">${achievement.name}</a></li>`).join('')}
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
                         <li class="group relative dropdown">
                             <a href="/skills">Compétences</a>
                             <div class="group-hover:block bg-white shadow dropdown-menu absolute hidden h-auto left-1/2 transform -translate-x-1/2 rounded-md">

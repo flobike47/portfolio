@@ -1,0 +1,66 @@
+{
+  "name": "Orgue en Albret",
+  "description": "Créer un site web dynamique pour l'association Orgue en Albret",
+  "image": "https://image.spreadshirtmedia.net/image-server/v1/compositions/T1459A842PA4459PT28D325025202W8333H10000/views/1,width=378,height=378,appearanceId=842,backgroundColor=FFFFFF,noPt=true/organiste-organiste-organiste-deglise-orgue.jpg",
+  "content": [
+    {
+      "title": "Contexte",
+      "content": "Ce projet a été réalisé lors de ma première année en ingénierie logicielle à l’ESIEA. Il visait à développer mes compétences en développement web et en gestion de base de données. En effet pour ce projet les technologies utilisées étaient php ainsi que MySql. La particularité des projets à l’ESIEA est que nous avons un vrai commanditaire en face de nous et nous servons à une cause réelle, ce n’est pas juste un projet d’école, il y a de vrais enjeux pour les personnes qui nous font confiance.</br>"
+    },
+    {
+      "title": "Présentation du projet",
+      "content": "Orgue en Albret est une association visant à rassembler les adeptes d'orgues dans la région de l’abret. Leur but est d’organiser des événements (concerts, visite..) pour partager leur passion commune et l’histoire de chaque orgue et du lieu où il se trouve. Grâce aux recettes des évènements, ils peuvent entretenir et restaurer le patrimoine de la région de l’Albret</br></br>Leur besoin est de pouvoir partager leurs informations de manière claire et organisée afin que chaque personne puisse trouver l’information qu'elle souhaite le plus simplement possible. l’association utilisait une page facebook pour partager les informations mais celles-ci se perdaient vite dans le fil d’actualité et ne répondait pas clairement à leur besoin.</br></br></br>Orgue en Albret à fait appel à l’ESIEA pour répondre à leur besoin, créer un site web permettant aux adhérents de consulter les dernières actualités de l’association et permettre à n'importe quel visiteur de consulter la page d’un orgue avec son histoire, son emplacement dans la région avec une section dédié aux avis des visiteurs ainsi que les actualités associé à cet orgue/lieu. Pour réaliser ce projet nous étions une équipe de 5.</br>"
+    },
+    {
+      "title": "Enjeux et risques",
+      "content": "L’enjeu pour l'association Orgue en Albret est que grâce à ce site web ils pourront gagner en visibilité et faire connaître leur passion au plus grand nombre permettant de réunir de plus en plus de monde lors de leurs évènements.</br></br>Le risque majeur de ce projet est que le site web ne fasse pas l’effet escompté ne permettant pas une évolution de l’association entraînant une perte financière lors de leurs événements empêchant la restauration et l’entretien du patrimoine de la région de l’abret.</br>"
+    },
+    {
+      "title": "Réalisations",
+      "content": "Lors de ce projet, dans un premier temps je me suis occupé de l’identité de notre équipe en créant notre logo qui servira pour nos différentes présentations d'avancée de projet. Pour réaliser ce logo j’ai utilisé le logiciel illustrator de la suite adobe qui permet de créer des visuels, ce logiciel m’à service aussi à créer les affiches de présentation de projet en mentionnant les membres de l’équipe, les technologies utilisées pour réaliser ce projet ainsi que le nom de notre équipe et le slogan.</br></br>Par la suite, j'ai participé à la planification du projet. Le but de la planification est de déterminer les tâches et leurs charges qui doivent être terminées avant une date précise.</br>Je me suis occupé de déterminer les tâches associées à la mise en place de la base de données sur les différentes pages du site web en essayant de d’estimer le plus précisément possible le temps que cela pourrait prendre pour réaliser les différentes tâches. Pour cette estimation je me suis aidé des exercices déjà réalisés en cours ainsi que l’avis des autres membres du groupe, c’est cela qui m’à permis de réaliser une planification juste.</br></br></br> j’ai pu m’occuper de la conception de la base de données pour tout le site.</br>J’ai récolté les différents besoins pour chaque page ainsi que les interactions de chaque partie du site afin de construire un modèle de base de données. </br>Pour que que cette conception soit la plus précise possible et qu’il n’y ait pas de modifications à apporter par la suite,j’ai presenté ma conception aux membres de l’équipe afin d’obtenir leur avis et apporter des modifications puis dans un second temps j'ai organisé un rendez-vous avec nos commanditaires pour leur présenter le travail et définir les changements avec eux. Grâce à ce rendez-vous nous avons ajusté des détails pour que ça corresponde exactement aux attentes.</br></br>Une fois cette conception faite je me suis occupé de la partie administrateur du site où j’ai pour gérer des interactions avec la base de données grâce à des commandes SQL pour modifier le contenu du site sur les différentes pages. Grâce à cette partie administrateur les commanditaires pourront faire évoluer le site. </br></br>Afin de rendre cette partie administrateur plus agréable, j’ai utilisé du css pour placer des éléments de ma page à des endroits précis et les rendre plus agréable visuellement. Le  css m'a aussi permis de masquer des éléments si certaines conditions ne sont pas valides pour ne pas que l’utilisateur puisse faire des erreurs.</br>"
+    },
+    {
+      "title": "Résultats",
+      "content": "Résultats</br>Ce projet a été ma première expérience concrète avec les bases de données web (MySQL, PHP). J'ai beaucoup appris sur leur conception et leur rôle pour rendre un site dynamique et autonome pour l'utilisateur, ce qui était très gratifiant malgré la difficulté initiale. J'ai aussi pu pratiquer la planification et la communication avec les membres de l’équipe et les commanditaires.</br>Orgue en Albret a obtenu un site web fonctionnel répondant à ses besoins(orgues, événements)en leur permettant la gestion autonome des actualités via une section admin. C'est une nette amélioration par rapport à leur ancienne page Facebook pour leur communication et leur visibilité.</br>"
+    },
+    {
+      "title": "Perspectives d’avenir",
+      "content": "L'objectif immédiat était la création du site par l'association. À terme, ce site doit les aider à accroître leur visibilité, attirer plus de public et ainsi soutenir leur mission de préservation du patrimoine. Il constitue une base solide pour leur présence en ligne future.</br>"
+    },
+    {
+      "title": "Mon regard critique",
+      "content": "Ma contribution principale a été la conception de la base de données et de la partie administrateur, éléments clés pour l'autonomie de gestion souhaitée par l'association. J'ai ainsi traduit leur besoin fonctionnel en une solution technique adaptée. Au-delà de la technique (BDD, web), j'ai surtout appris l'importance de la communication client pour bien cerner le besoin et j'ai découvert les enjeux concrets de la planification et de la gestion d'un projet pour un commanditaire réel.</br>"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Illustrator",
+      "path":  "./skills/microbio"
+    },
+    {
+      "name": "SQL",
+      "path":  "./skills/sql"
+    },
+    {
+      "name": "Communucation",
+      "path":  "./skills/Communucation"
+    },
+    {
+      "name": "Planification",
+      "path":  "./skills/Planification"
+    },
+    {
+      "name": "Travail en équipe",
+      "path":  "./skills/Travail en équipe"
+    },
+    {
+      "name": "Analyse du besoin",
+      "path":  "./skills/Analyse du besoin"
+    },
+    {
+      "name": "CSS",
+      "path":  "./skills/CSS"
+    }
+  ]
+
+}

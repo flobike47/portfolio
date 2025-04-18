@@ -24,6 +24,22 @@
     {
       "name": "DogTrip",
       "path":  "./achievements/dogtrip"
+    },
+    {
+      "name": "Défi47 Virtuel",
+      "path":  "./achievements/defi47"
+    },
+    {
+      "name": "MicroBio",
+      "path":  "./achievements/microbio"
+    },
+    {
+      "name": "Androwing",
+      "path":  "./achievements/androwing"
+    },
+    {
+      "name": "Orgue en Albret",
+      "path":  "./achievements/orgueEnAlbret"
     }
   ]
 

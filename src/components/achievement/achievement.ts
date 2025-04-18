@@ -11,7 +11,7 @@ export function achievement(achievement : Achievement) : string {
     ${achievement.content.map((content) =>
         content_display(content)
     ).join('')}
-    <div class="flex flex-row">
+    <div class="flex flex-row flex-wrap">
     ${achievement.skills.map((skill) =>
         skill_button(skill)
     ).join('')}

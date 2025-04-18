@@ -1,7 +1,7 @@
 {
-  "name": "Planification",
-  "description": "Je sais planifier un projet pour atteindre les objectifs fixés.",
-  "image": "https://cdn-icons-png.flaticon.com/512/5656/5656169.png",
+  "name": "Communication",
+  "description": "Je sais communiquer efficacement avec les parties prenante du projet (équipe et \"client\").",
+  "image": "https://static.vecteezy.com/ti/vecteur-libre/p1/4610297-humain-avec-chat-talk-symbol-for-communication-sharing-teamwork-logo-design-vector-vectoriel.jpg",
   "content": [
     {
       "title": "Ma définition",
@@ -36,6 +36,10 @@
     {
       "name": "Orgue en Albret",
       "path":  "./achievements/orgueEnAlbret"
+    },
+    {
+      "name": "Androwing",
+      "path":  "./achievements/androwing"
     }
   ]
 

@@ -22,12 +22,16 @@
   ],
   "achievements": [
     {
-      "name": "Orgue en Albret",
-      "path":  "./achievements/orgue-en-albret"
+      "name": "MicroBio",
+      "path":  "./achievements/microbio"
     },
     {
-      "name": "Projet de gestion de bibliothèque",
-      "path":  "./achievements/projet-gestion-bibliotheque"
+      "name": "Androwing",
+      "path":  "./achievements/androwing"
+    },
+    {
+      "name": "Orgue en Albret",
+      "path":  "./achievements/orgueEnAlbret"
     }
   ]
 

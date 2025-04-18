@@ -1,7 +1,7 @@
 {
-  "name": "Planification",
-  "description": "Je sais planifier un projet pour atteindre les objectifs fixés.",
-  "image": "https://cdn-icons-png.flaticon.com/512/5656/5656169.png",
+  "name": "Analyse du besoin",
+  "description": "Je sais analyser le besoin d'un client/commanditaire pour lui proposer une solution adaptée.",
+  "image": "https://cdn-icons-png.flaticon.com/512/809/809460.png",
   "content": [
     {
       "title": "Ma définition",
@@ -36,6 +36,10 @@
     {
       "name": "Orgue en Albret",
       "path":  "./achievements/orgueEnAlbret"
+    },
+    {
+      "name": "Androwing",
+      "path":  "./achievements/androwing"
     }
   ]
 

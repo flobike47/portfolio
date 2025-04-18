@@ -24,6 +24,14 @@
     {
       "name": "MicroBio",
       "path":  "./achievements/microbio"
+    },
+    {
+      "name": "Androwing",
+      "path":  "./achievements/androwing"
+    },
+    {
+      "name": "Orgue en Albret",
+      "path":  "./achievements/orgueEnAlbret"
     }
   ]
 

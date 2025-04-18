@@ -1,7 +1,7 @@
 {
-  "name": "Défi47 Virtuel",
-  "description": "Créer la communication autour d'un évènement de cyclisme virtuel",
-  "image": "https://i.pinimg.com/736x/2e/d1/15/2ed115c13891fd913afe5d2f32dfa85f.jpg",
+  "name": "MicroBio",
+  "description": "Créer un outil de gestion de tâches pour un laboratoire d'analyses",
+  "image": "https://antoinepru.net/assets/img/logos/microbio-logo.png",
   "content": [
     {
       "title": "Contexte",
@@ -38,6 +38,18 @@
       "path":  "./skills/microbio"
     },
     {
+      "name": "Java",
+      "path":  "./skills/java"
+    },
+    {
+      "name": "Angular",
+      "path":  "./skills/angular"
+    },
+    {
+      "name": "SQL",
+      "path":  "./skills/sql"
+    },
+    {
       "name": "Communucation",
       "path":  "./skills/Communucation"
     },
@@ -50,8 +62,16 @@
       "path":  "./skills/Travail en équipe"
     },
     {
+      "name": "Rituels agiles",
+      "path":  "./skills/Rituels agiles"
+    },
+    {
       "name": "Analyse du besoin",
       "path":  "./skills/Analyse du besoin"
+    },
+    {
+      "name": "CSS",
+      "path":  "./skills/CSS"
     }
   ]
 

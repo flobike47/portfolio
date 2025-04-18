@@ -8,11 +8,11 @@ export function skill(skill : Skill) : string {
     <div class="">
     <h1 class="pb-3.5 pt-3.5">${skill.name}</h1>
     <div id="skill-display" class="flex flex-col">
-    ${skill.content.map((content) =>
+    ${skill.content?.map((content) =>
         content_display(content)
     ).join('')}
-    <div class="flex flex-row">
-    ${skill.achievements.map((achievement) =>
+    <div class="flex flex-row flex-wrap">
+    ${skill.achievements?.map((achievement) =>
         achievement_button(achievement)
     ).join('')}
     </div>

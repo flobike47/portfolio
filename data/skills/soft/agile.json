@@ -24,6 +24,10 @@
     {
       "name": "MicroBio",
       "path":  "./achievements/microbio"
+    },
+    {
+      "name": "Androwing",
+      "path":  "./achievements/androwing"
     }
   ]
 
