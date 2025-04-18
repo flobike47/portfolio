@@ -14,6 +14,7 @@ export function home() : string {
     const hard_skills = skill_service.skills?.bySkillType(Skill_type.HARD_SKILL) || [];
     const soft_skills = skill_service.skills?.bySkillType(Skill_type.SOFT_SKILL) || [];
     const displayed_skills = [...hard_skills.slice(0, 2), ...soft_skills.slice(0, 1)];
+    const displayed_achievements = achievement_service.achievements?.achievements.slice(0, 3);
 
     return `
     <div id="home-display" class="w-full h-full bg-gray-100">
@@ -41,7 +42,7 @@ export function home() : string {
             <h2 class="text-3xl font-bold p-10 bg-secondary-color text-white rounded-md w-3/4 text-center shadow-md">Aperçu de mes réalisations</h2>
 
             <div class="flex flex-wrap -mx-2 items-start align-top flex-row w-3/4 mt-5">
-                ${achievement_service.achievements?.achievements.map((achievement) => mini_achievement(achievement)).join("")}
+                ${displayed_achievements.map((achievement) => mini_achievement(achievement)).join("")}
             </div>
             ${generic_button("Voir mes réalisations", "/achievements")}
         </div>
