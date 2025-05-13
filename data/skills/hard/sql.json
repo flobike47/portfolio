@@ -23,16 +23,16 @@
   "achievements": [
     {
       "name": "MicroBio",
-      "path":  "./achievements/microbio"
+      "path": "./achievements/microbio"
     },
     {
       "name": "Androwing",
-      "path":  "./achievements/androwing"
+      "path": "./achievements/androwing"
     },
     {
       "name": "Orgue en Albret",
-      "path":  "./achievements/orgueEnAlbret"
+      "path": "./achievements/orgueEnAlbret"
     }
-  ]
-
+  ],
+  "level": 3
 }

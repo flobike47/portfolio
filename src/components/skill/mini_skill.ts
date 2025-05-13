@@ -1,6 +1,10 @@
 import {Skill} from "../../models/Skill.ts";
 
 export function mini_skill(skill: Skill) {
+    const maxLevel = 5; // Maximum level
+    const filledDots = '●'.repeat(skill.level); // Filled dots based on level
+    const emptyDots = '○'.repeat(maxLevel - skill.level); // Empty dots for remaining levels
+
     return `
     <div class="w-full sm:w-1/2 md:w-1/3 p-2">
     <a href="./skills/${skill.name}" class="block h-full">
@@ -8,8 +12,12 @@ export function mini_skill(skill: Skill) {
             <h2 class="text-xl font-bold mb-4">${skill.name}</h2>
             <img src="${skill.image}" class="w-32 h-32 object-contain p-3.5 mb-4" alt="${skill.name}">
             <p class="flex-grow">${skill.description}</p>
+            <div class="text-xs italic mt-2">Niveau de maîtrise</div>
+            <div class="flex justify-center items-center text-lg">
+                ${filledDots}${emptyDots}
+            </div>
         </div>
     </a>
 </div>
-    `
+    `;
 }

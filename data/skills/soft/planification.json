@@ -23,20 +23,20 @@
   "achievements": [
     {
       "name": "Défi47 Virtuel",
-      "path":  "./achievements/defi47"
+      "path": "./achievements/defi47"
     },
     {
       "name": "DogTrip",
-      "path":  "./achievements/dogtrip"
+      "path": "./achievements/dogtrip"
     },
     {
       "name": "MicroBio",
-      "path":  "./achievements/microbio"
+      "path": "./achievements/microbio"
     },
     {
       "name": "Orgue en Albret",
-      "path":  "./achievements/orgueEnAlbret"
+      "path": "./achievements/orgueEnAlbret"
     }
-  ]
-
+  ],
+  "level": 3
 }

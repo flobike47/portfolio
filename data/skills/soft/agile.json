@@ -23,12 +23,12 @@
   "achievements": [
     {
       "name": "MicroBio",
-      "path":  "./achievements/microbio"
+      "path": "./achievements/microbio"
     },
     {
       "name": "Androwing",
-      "path":  "./achievements/androwing"
+      "path": "./achievements/androwing"
     }
-  ]
-
+  ],
+  "level": 4
 }

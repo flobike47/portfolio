@@ -8,6 +8,7 @@ export function mini_achievement(achievement: Achievement) {
             <h2 class="text-xl font-bold mb-4">${achievement.name}</h2>
             <img src="${achievement.image}" class="w-32 h-32 object-contain p-3.5 mb-4" alt="${achievement.name}">
             <p class="flex-grow">${achievement.description}</p>
+            
         </div>
     </a>
 </div>
