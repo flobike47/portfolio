@@ -1,4 +1,5 @@
 import {home} from "./src/pages/home/home";
+import {path} from "./src/pages/path/path";
 import {skills_routing} from "./src/pages/skills/skills_routing";
 import {not_found} from "./src/pages/404";
 import {achievements_routing} from "./src/pages/achievements/achievements_routing";
@@ -25,6 +26,9 @@ function routing() {
             break;
         case newPath.startsWith('/présentation'):
             document.querySelector('#page').innerHTML = presentation()
+            break;
+        case newPath.startsWith('/parcours'):
+            document.querySelector('#page').innerHTML = path()
             break;
         default:
             document.querySelector('#page').innerHTML = not_found()

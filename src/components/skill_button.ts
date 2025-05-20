@@ -1,4 +1,3 @@
-import {Achievement} from "../models/Achievement.ts";
 import {Skill} from "../models/Skill.ts";
 
 export function skill_button(skill: Skill) : string {

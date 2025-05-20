@@ -8,12 +8,12 @@ RUN npm install -g vite
 
 RUN npm install
 
-RUN npx tailwindcss -i ./style.css -o ./dist/output.css --watch
-
 RUN npm run build
 
+RUN npx tailwindcss -i ./style.css -o ./dist/output.css --watch
+
 RUN cp .htaccess dist/.htaccess
-RUN cp ./dist/output.css ./output.css
+
 # Stage 2
 
 FROM --platform=linux/arm64 httpd:2.4

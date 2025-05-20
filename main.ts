@@ -37,7 +37,7 @@ const linkedInRedirection = document.querySelector('#LinkedIn-redirection');
 if (linkedInRedirection) {
     linkedInRedirection.addEventListener('click', () => {
         window.open(
-            'https://github.com/flobike47',
+            'https://fr.linkedin.com/in/florian-bordignon',
             '_blank'
         );
     });
